@@ -1,3 +1,2 @@
-FROM jc21/nginx-proxy-manager
+FROM nginx
 
-ENTRYPOINT  ["/init"]
